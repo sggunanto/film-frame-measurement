@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this instrument or its method, please cite it."
+title: "film-frame-measurement: a validated instrument for measuring the visual form of film, animation and video frame corpora"
+abstract: >-
+  A six-stage procedure and toolkit for building a measurement instrument over a
+  corpus of screen images: frame-accurate still extraction from pinned editions,
+  seventeen computed colour, texture and composition descriptors validated against
+  constructed images with known answers, a two-factor visual-tension index, a human
+  coding scheme with simulation-sized inter-coder reliability, and clustered-data
+  statistics with restricted permutation. Built for animation, where the
+  live-action-derived cinemetric toolkit does not transfer unmodified.
+type: software
+version: 1.0.0
+date-released: "REPLACE-RELEASE-DATE"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+repository-code: "REPLACE-REPOSITORY-URL"
+doi: "REPLACE-ZENODO-DOI"
+authors:
+  - family-names: "REPLACE-FAMILY-NAME"
+    given-names: "REPLACE-GIVEN-NAMES"
+    orcid: "https://orcid.org/REPLACE-ORCID"
+    affiliation: "REPLACE-AFFILIATION"
+keywords:
+  - computational film analysis
+  - animation studies
+  - visual style
+  - content analysis
+  - inter-coder reliability
+  - measurement validation
+  - cinemetrics
+  - digital humanities

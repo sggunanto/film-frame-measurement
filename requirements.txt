@@ -1,0 +1,21 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Image descriptors
+scikit-image>=0.21
+scikit-learn>=1.3
+imageio>=2.31
+
+# Reliability and models
+krippendorff>=0.6
+statsmodels>=0.14
+
+# Figures (examples only)
+matplotlib>=3.7
+
+# Frame extraction additionally requires the ffmpeg and ffprobe binaries on PATH.
+#   macOS:        brew install ffmpeg
+#   Debian/Ubuntu: sudo apt install ffmpeg
+#   conda:        conda install -c conda-forge ffmpeg
