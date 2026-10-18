@@ -11,16 +11,16 @@ abstract: >-
   live-action-derived cinemetric toolkit does not transfer unmodified.
 type: software
 version: 1.0.0
-date-released: "REPLACE-RELEASE-DATE"
+date-released: "18 October 2026"
 license: MIT
 license-url: "https://opensource.org/licenses/MIT"
-repository-code: "REPLACE-REPOSITORY-URL"
+repository-code: "https://github.com/sggunanto/film-frame-measurement"
 doi: "REPLACE-ZENODO-DOI"
 authors:
-  - family-names: "REPLACE-FAMILY-NAME"
-    given-names: "REPLACE-GIVEN-NAMES"
-    orcid: "https://orcid.org/REPLACE-ORCID"
-    affiliation: "REPLACE-AFFILIATION"
+  - family-names: "Gunanto"
+    given-names: "Samuel Gandang"
+    orcid: "https://orcid.org/0000-0002-6623-6409"
+    affiliation: "Institut Seni Indonesia Yogyakarta, Indonesia"
 keywords:
   - computational film analysis
   - animation studies
